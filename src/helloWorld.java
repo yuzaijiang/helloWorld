@@ -5,6 +5,6 @@ public class helloWorld {
         System.out.println("yuzaijiang");
         System.out.println("shanghai");
         System.out.println("beijing");
-        System.out.println("shenzhen";
+        System.out.println("shenzhen");
     }
 }
