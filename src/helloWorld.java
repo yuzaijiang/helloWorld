@@ -4,5 +4,6 @@ public class helloWorld {
         System.out.println("helloJava");
         System.out.println("yuzaijiang");
         System.out.println("shanghai");
+        System.out.println("beijing");
     }
 }
